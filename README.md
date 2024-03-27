@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
