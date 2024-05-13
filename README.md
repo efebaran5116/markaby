@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+YOLOv8 INT8 TFLite Inference Example (#7317)
